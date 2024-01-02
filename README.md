@@ -7,4 +7,4 @@ Se utiliza el lenguaje de programación Python y algunas de sus librerías para 
 
 El "Script" de Python solicita el "ticker" de la empresa de la que se requieren los datos, el usuario lo inserta así como también inserta un intervalo de tiempo para los datos.
 
-El script crea un "archivo.csv" con los datos solicitados, devuelve un resumen con los estadísticos báscios de los datos recogidos y crea una gráfica de los mismos.
+El script crea un "archivo.csv" con los datos solicitados, devuelve un resumen con los estadísticos básicos de los datos recogidos y crea una gráfica de los mismos.
